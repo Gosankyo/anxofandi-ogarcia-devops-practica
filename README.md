@@ -1,9 +1,1 @@
-﻿# Nombre del Proyecto
-DevOps - Práctica 2.1
-
-## Autor
-Anxo Fandiño
-
-## Descripción
-Esta es una aplicación desarrollada en Python como parte de la práctica 1.3. El objetivo es trabajar con Git, ramas, control de versiones y posteriormente Docker.
-
+README nuevo (feature/docker)
